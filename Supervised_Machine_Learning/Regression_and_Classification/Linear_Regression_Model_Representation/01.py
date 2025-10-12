@@ -60,7 +60,6 @@ plt.ylabel('Price (1000s $)')
 plt.show()
 
 ### 6) Compute the exact line that fits the two points (analytic solution)
-
 # Because we have two points, there's a unique straight line passing through them. Use slope/intercept formulas:
 
 # Points (x1,y1) and (x2,y2)
